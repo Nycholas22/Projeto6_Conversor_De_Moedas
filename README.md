@@ -7,6 +7,12 @@ Este projeto é uma aplicação web simples e intuitiva desenvolvida para conver
 
 ---
 
+## 🔗 Link para Acesso
+Você pode testar a aplicação funcionando em tempo real através do link abaixo:
+> **[Acessar Conversor de Moedas Virtuais](https://nycholas22.github.io/Projeto6_Conversor_De_Moedas/)**
+
+---
+
 ## 🚀 Como funciona?
 
 O conversor utiliza cálculos matemáticos baseados em fatores de conversão simulados:
@@ -28,7 +34,7 @@ Para este projeto, foram utilizadas as tecnologias fundamentais da web:
 
 ---
 
-## 📂 Como Acessar o Projeto
+## 📂 Como Executar Localmente
 
 Você não precisa instalar nada complexo para rodar este projeto, apenas um navegador de internet.
 
@@ -56,6 +62,3 @@ Este projeto foi idealizado e desenvolvido por:
 | :--- | :--- | :--- |
 | **Roblox** | Robux | R$ 1,00 = 16 moedas |
 | **Fortnite** | V-Bucks | R$ 1,00 = 25 moedas |
-
----
-
