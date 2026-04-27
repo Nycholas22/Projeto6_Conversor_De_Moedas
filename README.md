@@ -1,4 +1,3 @@
-Aqui está um arquivo **README.md** profissional e bem estruturado para o seu projeto, formatado especialmente para ser usado no GitHub ou em pastas de documentação.
 
 ---
 
