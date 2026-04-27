@@ -59,4 +59,3 @@ Este projeto foi idealizado e desenvolvido por:
 
 ---
 
-Espero que este README ajude a documentar seu excelente trabalho, Nycholas! Precisa de mais alguma alteração no texto ou nas taxas de conversão?
